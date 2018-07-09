@@ -13,7 +13,7 @@
     <TextView
         android:id="@+id/nekiTekst"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="192dp"
         android:text="Hi"
         android:gravity="center"
         android:layout_centerInParent="true"
